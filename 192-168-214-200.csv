@@ -1,0 +1,22 @@
+"*",1,6,103,,
+MFDN,MFADDRT,MFCN,MFIKEY,MFVDN,MFMTID,MFLINE,MFFAX,MFRBC,MFCMODE,MFSRESO,MFSHEET,MFSHEETC1,MFSHEETC2,MFPMAX,MFTMSND,MFTMSNDH,MFTMSNDM,MFMBOX,MFMBOXPS,MFMBOXID,MFRLY,MFRLYID,MFRLYPRN,MFRLYNUM,MFCHRGT1,MFCHRGT2,MFCHRGT3,MFFCODE,MFPCODE,MFSG3FRBT,MFMDMSPD,MFECMFRBT,MFEJBIGFRBT,MFRDTIMES,MFSNDLV,MFRCVLV,MFIFAX,MFTIFF,MFIFAXCMODE,MFIFAXSRESO,MFIFAXPMAX,MFIFAXTMSND,MFIFAXTMSNDH,MFIFAXTMSNDM,MFSN,MFGN,MFMAIL,MFAUX1,MFAUX2,MFAUX3,MFSVRT,MFSVRADDR,MFPORT1,MFPORT2,MFUSER,MFPASSWD,MFVOLUME,MFPATH,MFUSETLS,MFIPFAX,MFIPFAXCMODE,MFIPFAXSRESO,MFIPFAXSHEET,MFIPFAXSHEETC1,MFIPFAXSHEETC2,MFIPFAXPMAX,MFIPFAXTMSND,MFIPFAXTMSNDH,MFIPFAXTMSNDM,MFIPFAXMBOX,MFIPFAXMBOXPS,MFIPFAXMBOXID,MFIPFAXRLY,MFIPFAXRLYID,MFIPFAXRLYNUM,MFIPFAXRLYPRN,MFIPFAXCHRGT1,MFIPFAXCHRGT2,MFIPFAXCHRGT3,MFIPFAXFCODE,MFIPFAXPCODE,MFIPFAXSG3FRBT,MFIPFAXMDMSPD,MFIPFAXECMFRBT,MFIPFAXEJBIGFRBT,MFIPFAXRDTIMES,MFIPFAXSNDLV,MFIPFAXRCVLV,MFENCSTR
+0001,INTERNETFAX,ナゴヤ本社,な,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nagoya@[192.168.11.204],0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0002,INTERNETFAX,東京本社,と,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tokyo@[192.168.201.200],0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0003,INTERNETFAX,関西支社,か,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kansai@[192.168.204.201],0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0004,INTERNETFAX,ＤＥＳ弥富リサイクルセンター,Ｄ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yatomi@[192.168.216.200],0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0005,INTERNETFAX,ＤＥＳ　ＰＣＢ事業部,Ｄ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pcb2@[192.168.206.210],0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0006,FAX,青野事務所,あ,,,0,0223948772,0,0,0,0,,,0,0,,,0,,,0,,,,0,0,0,,,0,0,0,0,255,255,255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MDIyMzk-ODc3Mgk=
+0007,FAX,三菱マテリアルトレーディング,み,,,0,0222651183,0,0,0,0,,,0,0,,,0,,,0,,,,0,0,0,,,0,0,0,0,255,255,255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MDIyMjY1MTE4Mwk=
+0008,SERVER,ささき,さ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,192.168.214.3,,,,,ECOTHN-04,C:\Users\ec001092\Desktop\スキャン,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0201,SERVER,案件ファイル,あ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,192.168.202.247,,,administrator,wi7Mt58UDEN9tBtybdHG9w==,des,\04　東北支店\案件ファイル\scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0202,SERVER,木津川,き,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ECOTH03,,,ECO,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0203,SERVER,田村,た,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,192.168.11.252,,,administrator,HYxa2mAGSGnI2wOuVnWosQ==,des,\04　東北支店\05　個人ホルダー\田村\scan,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0204,SERVER,玉川,た,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ecothn-03,,,eco,GXlEDiSTqdnVSghCA/p62A==,scan,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0205,SERVER,ECOTH06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ECOTH06,,,eco,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0206,SERVER,佐々木（康）,さ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ecothn-04,,,ECO,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0207,SERVER,田村（剛）,た,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,192.168.202.247,,,administrator,wi7Mt58UDEN9tBtybdHG9w==,des,\04　東北支店\案件ファイル\scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0208,SERVER,滝本,た,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ECOTN-14,,,ECO,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0209,SERVER,白井,し,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ECOTN-26,,,ECO,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0210,SERVER,若松,わ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ECOTN53,,,eco,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0419,SERVER,門馬,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SMB,ECOTN-39,,,eco,GXlEDiSTqdnVSghCA/p62A==,scan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"*"

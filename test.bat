@@ -1,0 +1,1 @@
+powershell.exe -Command "Start-Process 'C:\Program Files (x86)\FUJIFILM\Device Setup\DeviceSetup.exe' -Verb RunAs"
